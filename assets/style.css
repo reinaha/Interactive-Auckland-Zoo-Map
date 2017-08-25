@@ -1,0 +1,16 @@
+* {
+	margin:0;
+}
+
+#map {
+	height: 90vh;
+	border: thin red solid;
+}
+
+.leaflet-popup-content-wrapper, .leaflet-popup-tip {
+	background-color: black;
+	color: #fff;
+	box-shadow: none;
+	letter-spacing: 0.8;
+	text-align: center;
+}
